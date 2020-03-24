@@ -8,6 +8,8 @@
 
 注：未特殊说明的都是JDK 1.8版本的
 
+[TOC]
+
 
 
 ### StorehousesManager ：蔬菜管理系统
@@ -18,7 +20,7 @@
 
 
 
-### EnterpriseCostMS ：企业项目管理系统
+### EnterpriseCostMS ：企业费用管理系统
 
 项目主要使用的技术：JSP + Bootstrap + JavaWeb + MySQL 8.0 + C3p0连接池
 
@@ -63,6 +65,8 @@
 
 
 
+
+联系我：ghuang0822@foxmail.com
 
 
 
